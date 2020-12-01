@@ -35,6 +35,7 @@ class Skill
     }
 }
 
+
 // 控制反转，使用哪个，调用哪个
 class Ability
 {
